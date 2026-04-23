@@ -2,6 +2,8 @@
 
 This project involves building a modern data warehouse using MS SQL Server, including data modeling, ETL processes, and analytics to support efficient, scalable data insights.
 
+[SQL Data Warehouse Project (Notion)](https://www.notion.so/SQL-Data-Warehouse-Project-33eda3ae287a80768077fa80262cb658?source=copy_link)
+
 ## Project Requirements
 
 Building the Data Warehouse (Data Engineering)
